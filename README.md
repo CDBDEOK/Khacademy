@@ -3,6 +3,6 @@
 
 ## Project
 *  Topic : **Hackers Take Over Control From Smart Car Drivers and Through Wireless Access**
-* material : Hackers Laptop : **Kali Linux** , Drivers Smart Car : OS: **Linux(Rasbian)** , **Wi-Fi**
+* material : Hackers Laptop : **Kali Linux** , Drivers Smart Car : OS **Linux(Rasbian)** , **Wi-Fi**
 *  Tools :
 *  Member : 채xx , 정xx , 이xx
