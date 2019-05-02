@@ -4,4 +4,4 @@
 ## Project
 * 팀  원 : 채덕병 , 정명재 , 이주한
 * 주  제 : **Hackers Take Over Control From Smart Car Drivers and Through Wireless Access**
-* 준비물 : Hackers Laptop : **Kali Linux** , Drivers Smart Car : OS: Linux(Rasbian) , Wi-Fi
+* 준비물 : Hackers Laptop : **Kali Linux** , Drivers Smart Car : OS: **Linux(Rasbian)** , **Wi-Fi**
