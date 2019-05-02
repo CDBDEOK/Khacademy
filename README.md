@@ -1,4 +1,4 @@
-# Khacademy<hr/>
+# Khacademy
 Mr.Chae, Lee, Jeong
 This is my Team Project moment<hr/>
 ## Subject
