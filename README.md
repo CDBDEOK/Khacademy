@@ -3,4 +3,4 @@
 
 ## Project
 * 팀 원 : 채덕병 , 정명재 , 이주한
-* 주 제 : **Hackers take over control from smart car drivers and through wireless access**
+* 주 제 : **Hackers Take Over Control From Smart Car Drivers and Through Wireless Access**
