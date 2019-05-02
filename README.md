@@ -1,5 +1,5 @@
-# Khacademy
-## Mr.Chae, Lee, Jeong
+# Khacademy ### Mr.Chae, Lee, Jeong
+
 This is my Team Project moment
 
 ## Subject
