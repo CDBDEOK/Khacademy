@@ -1,3 +1,4 @@
 # Khacademy
 지능형 IoT 플랫폼 취약점 분석 및 해킹/보안 전문가 양성과정
-[![Build status](https://ci.appveyor.com/api/projects/status/v7vwgphs239i14ya?svg=true)]
+
+프로젝트
