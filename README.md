@@ -7,3 +7,6 @@
 *  Tools : Medusa , Aircrack-ng , Wireshark
 *  Member : 채덕병 , 정명재 , 이주한 
 https://askubuntu.com/questions/457061/ralink-mt7601u-148f7601-wi-fi-adapter-installation
+
+
+http://dowellcomputer.com/main.jsp
